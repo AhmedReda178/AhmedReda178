@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="60%"/> 
 
 <h1>👋 Ahmed Reda | أحمد رضا</h1>
-<h3>ASP.NET Core Developer | .NET Enthusiast</h3>
+<h3>.NET Developer</h3>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AhmedReda178\&style=flat\&color=orange\&label=PROFILE+VIEWS)
 
