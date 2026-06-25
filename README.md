@@ -4,9 +4,6 @@
 
 <h1>👋 Ahmed Reda | أحمد رضا</h1>
 <h3>.NET Developer</h3>
-
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedReda178\&style=flat\&color=orange\&label=PROFILE+VIEWS)
-
 <a href="mailto:rda49586@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
 </a>
