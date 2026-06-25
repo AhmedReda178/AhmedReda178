@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="60%"/> <br> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Workspace" width="40%"/><br>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="60%"/> 
 
 <h1>Hi 👋 I'm Ahmed Reda</h1>
 <h3>ASP.NET Core Developer | .NET Enthusiast</h3>
