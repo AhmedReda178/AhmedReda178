@@ -14,7 +14,7 @@
 
 </div>
 
-
+<hr>
 
 ![tools\_I\_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tech%20Stack-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
